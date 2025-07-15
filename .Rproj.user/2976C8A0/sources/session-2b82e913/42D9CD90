@@ -3,9 +3,9 @@
     "path": "~/equityag_materials/robles_l1.Rmd",
     "project_path": "robles_l1.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "2600048908",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1752552355302.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -16,11 +16,11 @@
         "scrollLine": "114"
     },
     "folds": "",
-    "lastKnownWriteTime": 1752555553,
+    "lastKnownWriteTime": 1752598447,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1752598058652,
+    "last_content_update": 1752598447400,
     "read_only": false,
     "read_only_alternatives": []
 }

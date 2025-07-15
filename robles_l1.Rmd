@@ -4,7 +4,7 @@ output: html_document
 date: "2025-07-14"
 ---
 
-# Load packages
+# Load package
 library(arrow)
 library(dplyr)
 library(ggplot2)
@@ -115,7 +115,7 @@ plot_2020 <- ggplot(data = cochise_data, aes(x = COUNTY_2010SVI, y = upward_mobi
 print(plot_2020)
 ggsave(plot = plot_2020, filename = "output/cochise_2020_boxplot.pdf")
 
-# Activity 3 – Filter Challenge
+# Activity 3 – Filter 
 
 # High mobility rows
 high_mobility_az <- subset_data_az %>% filter(upward_mobility_rate_2010 > 1)
